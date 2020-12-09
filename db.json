@@ -3,16 +3,22 @@
     {
       "id": 1,
       "nom": "acacia",
+      "couleur": "trés clair, blond",
+      "bienfaits": "régulateur intestinal, recommandé pour les jeunes enfants",
       "image": "https://s2.semencesdupuy.com/12572-medium_default/acacia-dealbata.jpg"
     },
     {
       "id": 2,
       "nom": "arbousier",
+      "couleur": "ambre foncé",
+      "bienfaits": "diurétique, antiseptique urinaire, circulation sanguine",
       "image": "https://www.guide-du-miel.com/Zpic/Illustrations/Miel-d-arbousier.jpg"
     },
     {
       "id": 3,
       "nom": "aubépine",
+      "couleur": "jaune pâle ou ivoire",
+      "bienfaits": "insomnies, antispasmodique, sédatif",
       "image": "https://www.guide-du-miel.com/Zpic/Illustrations/Miel-d-aubepine.jpg"
     },
     {
