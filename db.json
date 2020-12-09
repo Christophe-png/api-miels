@@ -1,0 +1,19 @@
+{
+  "miels": [
+    {
+      "id": 1,
+      "nom": "acacia",
+      "image": "https://s2.semencesdupuy.com/12572-medium_default/acacia-dealbata.jpg"
+    },
+    {
+      "id": 2,
+      "nom": "arbousier",
+      "image": "https://www.guide-du-miel.com/Zpic/Illustrations/Miel-d-arbousier.jpg"
+    },
+    {
+      "id": 3,
+      "nom": "aubépine",
+      "image": "https://www.guide-du-miel.com/Zpic/Illustrations/Miel-d-aubepine.jpg"
+    }
+  ]
+}
