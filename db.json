@@ -19,6 +19,11 @@
       "id": 4,
       "nom": "bourdaine",
       "image": "https://www.guide-du-miel.com/Zpic/Illustrations/Miel-de-bourdaine.jpg"
+    },
+    {
+      "id": 5,
+      "nom": "bruyère blanche",
+      "image": "https://www.guide-du-miel.com/Zpic/Illustrations/Miel-de-bruyere-blanche.jpg"
     }
   ],
   "pollens": [
