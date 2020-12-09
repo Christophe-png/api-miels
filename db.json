@@ -20,5 +20,17 @@
       "nom": "bourdaine",
       "image": "https://www.guide-du-miel.com/Zpic/Illustrations/Miel-de-bourdaine.jpg"
     }
+  ],
+  "pollens": [
+    {
+      "id": 1,
+      "nom": "Graminées",
+      "image": "https://i2.wp.com/www.airandme.fr/blog/wp-content/uploads/airandme-les-pollens-de-gramin%C3%A9es-s-envolent-01.jpg?fit=750%2C374&ssl=1"
+    },
+    {
+      "id": 2,
+      "nom": "Fagales",
+      "image": "https://static.educalingo.com/img/es/800/fagales.jpg"
+    }
   ]
 }
